@@ -47,7 +47,7 @@ Model evaluation metrics:
 
 - Out-of-sample test performance
 
-Modeling Approach
+Modeling Approach:
 
 - Data cleaning and feature engineering using Python (pandas, NumPy)
 
@@ -59,7 +59,7 @@ Modeling Approach
 
 - Time-based train/test split for realistic forecasting evaluation
 
-Assumptions
+Assumptions:
 
 - Collision counts follow an overdispersed count distribution (Negative Binomial appropriate over Poisson).
 
@@ -69,7 +69,7 @@ Assumptions
 
 - Seasonal patterns are captured via sine/cosine transformation rather than categorical seasons.
 
-Data Sources
+Data Sources:
 
 Traffic collision data:
 [City of Toronto Open Data Portal](https://data.torontopolice.on.ca/datasets/TorontoPS::traffic-collisions-open-data-asr-t-tbl-001/about)
