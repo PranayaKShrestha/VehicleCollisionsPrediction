@@ -84,7 +84,7 @@ Power BI Dashboard:
 Recreated the Power BI Dashboard from the Toronto Police Open Data Portal website for the vehicle collisions report. I added my own page (2nd image) that forecasts the total collisions for the next 2 weeks based on my model above.
 
 <img width="1408" height="790" alt="image" src="https://github.com/user-attachments/assets/a7c6df79-387e-4542-9e5c-d2c167cb6aa5" />
-<img width="1406" height="788" alt="image" src="https://github.com/user-attachments/assets/0b551f33-2bd5-4bfb-b8c5-463108fd7f6d" />
+<img width="1308" height="730" alt="image" src="https://github.com/user-attachments/assets/c58ac961-3222-45be-8ff9-4b096552d7b7" />
 <img width="1404" height="790" alt="image" src="https://github.com/user-attachments/assets/5e40cf16-d63e-408b-8de2-165958a86638" />
 <img width="1406" height="786" alt="image" src="https://github.com/user-attachments/assets/42067a23-08b2-4213-94d6-1995f8431ea9" />
 
