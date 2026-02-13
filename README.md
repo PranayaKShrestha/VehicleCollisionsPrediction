@@ -72,10 +72,16 @@ Assumptions
 Data Sources
 
 Traffic collision data:
-City of Toronto Open Data Portal
+[City of Toronto Open Data Portal](https://data.torontopolice.on.ca/datasets/TorontoPS::traffic-collisions-open-data-asr-t-tbl-001/about)
 
 Weather data:
-Environment and Climate Change Canada (daily weather statistics)
+https://open-meteo.com/en/docs?latitude=43.7064&longitude=-79.3986&timezone=auto&hourly=&daily=visibility_mean,temperature_2m_mean,wind_speed_10m_mean,snowfall_sum,rain_sum,wind_speed_10m_max,temperature_2m_min&forecast_days=16
+
+https://toronto.weatherstats.ca/
+
+Power BI Dashboard:
+
+Recreated the Power BI Dashboard from the Toronto Police Open Data Portal website for the vehicle collisions report. I added my own page (2nd image) that forecasts the total collisions for the next 2 weeks based on my model above.
 
 <img width="1408" height="790" alt="image" src="https://github.com/user-attachments/assets/a7c6df79-387e-4542-9e5c-d2c167cb6aa5" />
 <img width="1406" height="788" alt="image" src="https://github.com/user-attachments/assets/0b551f33-2bd5-4bfb-b8c5-463108fd7f6d" />
