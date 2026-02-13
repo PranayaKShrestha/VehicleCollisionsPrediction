@@ -15,9 +15,9 @@ Weather variables:
 
 - Average visibility
 
-- Rain indicator
+- Rain precipitation (mm)
 
-- Snow indicator
+- Snow (cm)
 
 Temporal features:
 
